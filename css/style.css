@@ -1,0 +1,27 @@
+*{
+	margin: 0;			
+	padding: 0;			
+	box-sizing: border-box;
+	font-family: "Open Sans";
+}
+
+/**Boot CSS**/
+
+html,body{
+	height: 100%;
+}
+
+.mt-0 {
+  margin-top: 80px !important;
+}
+
+.ml-1 {
+  margin-left: 20px !important;
+}
+
+.ml-2 {
+  margin-right: 20px !important;
+}
+
+
+
