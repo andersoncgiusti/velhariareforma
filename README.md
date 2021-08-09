@@ -11,4 +11,10 @@ O site consiste em:
 - Cadastro de clientes;
 - Cadastro de fornecedores;
 
+###### **Tecnologias usadas:**
+
+- Bootstrap 5
+- PHP
+- MySQL
+
 Após o cadastro de funcionário é possível acessar o dashboard com controle de cadastros de clientes e fornecedores.
